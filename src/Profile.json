@@ -1,0 +1,139 @@
+{
+    "applications": [
+      {
+        "className": "GMAP",
+        "icon": "GMAP",
+        "title": "Application 1", 
+        "card" : "../../Images/card_animation.PNG"
+      },
+     
+      {
+        "className": "GRDV",
+        "icon": "GRDV",
+        "title": "Application 2",
+        "card" : "../../Images/card_animation.PNG"
+      },
+      {
+        "className": "DPI",
+        "icon": "DPI",
+        "title": "Application 2",
+        "card" : "../../Images/card_animation.PNG"
+      },
+      {
+        "className": "RisPacks",
+        "icon": "RisPacks",
+        "title": "Application 2",
+        "card" : "Images/card_animation.PNG"
+      },
+      {
+        "className": "Web lab",
+        "icon": "Web lab",
+        "title": "Application 2",
+        "card" : "Images/card_animation.PNG"
+      },
+      {
+        "className": "Gpharme",
+        "icon": "Gpharme",
+        "title": "Application 2",
+        "card" : "Images/card_animation.PNG"
+      },
+      {
+        "className": "RisPacks",
+        "icon": "RisPacks",
+        "title": "Application 2",
+        "card" : "Images/card_animation.PNG"
+      },
+      {
+        "className": "Web lab",
+        "icon": "Web lab",
+        "title": "Application 2",
+        "card" : "Images/card_animation.PNG"
+      },
+      {
+        "className": "Gpharme",
+        "icon": "Gpharme",
+        "title": "Application 2",
+        "card" : "Images/card_animation.PNG"
+      },
+      {
+        "className": "RisPacks",
+        "icon": "RisPacks",
+        "title": "Application 2",
+        "card" : "Images/card_animation.PNG"
+      },
+      {
+        "className": "Web lab",
+        "icon": "Web lab",
+        "title": "Application 2",
+        "card" : "Images/card_animation.PNG"
+      },
+      {
+        "className": "Gpharme",
+        "icon": "Gpharme",
+        "title": "Application 2",
+        "card" : "Images/card_animation.PNG"
+      },
+      {
+        "className": "RisPacks",
+        "icon": "RisPacks",
+        "title": "Application 2",
+        "card" : "Images/card_animation.PNG"
+      },
+      {
+        "className": "Web lab",
+        "icon": "Web lab",
+        "title": "Application 2",
+        "card" : "Images/card_animation.PNG"
+      },
+      {
+        "className": "Gpharme",
+        "icon": "Gpharme",
+        "title": "Application 2",
+        "card" : "Images/card_animation.PNG"
+      },
+      {
+        "className": "Gpharme",
+        "icon": "Gpharme",
+        "title": "Application 2",
+        "card" : "Images/card_animation.PNG"
+      },
+      {
+        "className": "RisPacks",
+        "icon": "RisPacks",
+        "title": "Application 2",
+        "card" : "Images/card_animation.PNG"
+      },
+      {
+        "className": "Web lab",
+        "icon": "Web lab",
+        "title": "Application 2",
+        "card" : "Images/card_animation.PNG"
+      },
+      {
+        "className": "Gpharme",
+        "icon": "Gpharme",
+        "title": "Application 2",
+        "card" : "Images/card_animation.PNG"
+      }
+
+     
+    
+     
+    ],
+    "profile":[
+      {
+        "id" :1,
+        "Nom" : "BELLOUT",
+        "Prenom" : "Amazigh",
+        "Profession" : "Ingenieur d'etat en informatique"
+      },
+      {
+        "id" :2,
+        "Nom" : "RAHMOUN",
+        "Prenom" : "Amel",
+        "Profession" : "Ingenieur d'etat en informatique"
+      }
+     
+    ]
+  }
+  

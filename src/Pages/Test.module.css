@@ -1,0 +1,104 @@
+.c {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0px 20px ;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color:#558fb6;
+    border-radius: 20px;
+}
+
+
+.appboxx {
+    width: 280px;
+    height: 280px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 1px;
+    margin-bottom: 40px;
+    border: 2px solid #3498db;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.appboxx:hover {
+    transform: scale(1.05);
+}
+
+.appicon {
+    font-size: 36px;
+    color: #111b22;
+}
+
+.apptitle {
+    margin-top: 10px;
+    font-weight: bold;
+}
+.GMAP{
+    background-color: #558fb6;
+    width: 250px;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+}
+.GRDV{
+    background-color: #6dbe66;
+    width: 250px;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+}
+.RISpacks{
+    background-color: #854f46;
+    width: 250px;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+}
+.weblab{
+    background-color: #8a864e;
+    width: 250px;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+}
+.DPI{
+    background-color: #e4f3f3;
+    width: 250px;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+}
+.Gpharme{
+    background-color: #eaf3ea;
+    width: 250px;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+}

@@ -1,0 +1,157 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap");
+:root {
+  --blue: #22b3f2;
+  --black: #444;
+  --light-color: #777;
+  --box-shadow: 0.5rem 0.5rem 0 rgba(22, 160, 133, 0.2);
+  --text-shadow: 0.4rem 0.4rem rgba(0, 0, 0, 0.2);
+  --border: 0.2rem solid var(--blue);
+}
+
+
+.heaDer{
+  position: sticky;
+  padding: 2rem 9%;
+  padding-left: 10px;
+  padding-right: 150px;
+  z-index: 1000;
+  box-shadow: -1rem 1rem 10px 0px rgba(0, 0, 0, 0);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background:white;
+  font-family: "Poppins", sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+  text-transform: capitalize;
+  text-decoration: none;
+  transform: all 0.2s ease-out;
+  font-size: 62.5%;
+  overflow-x: hidden;
+  scroll-padding-top: 7rem;
+  scroll-behavior: smooth;
+}
+
+
+.heaDer .heaDer-overlay{
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.heaDer .heaDer-overlay .heaDer-language{
+  display: flex;
+  align-items: center;
+}
+
+
+
+/* Changer la langue */
+
+
+.heaDer-language {
+  display: flex;
+  align-items: center;
+}
+
+.language-icon a {
+  text-decoration: none;
+  margin-right: 10px;
+  color: #333; /* Text color */
+  font-weight: bold; /* Bold for text */
+  font-size: 16px; /* Text size */
+}
+
+.language-icon img {
+  margin-right: 5px; /* Right margin for images */
+  vertical-align: middle; /* Vertical alignment to the middle */
+}
+
+
+/* Stylize the links on hover */
+.language-icon a:hover {
+  color: #007BFF; /* Different color on hover */
+}
+
+
+.heaDer .logo {
+ /* Taille de base pour les écrans plus larges */
+  width: 80%;
+  max-width: none; /* L'image ne dépassera jamais la largeur de son contenant */
+}
+
+/* Styles pour les écrans de largeur maximale de 768px (taille de téléphone) */
+@media (max-width: 768px) {
+  .heaDer {
+    flex-direction: column; /* Empiler les éléments les uns sur les autres */
+    text-align: center; /* Centrer le texte */
+  }
+
+  .heaDer .logo {
+    font-size: 1.5rem; /* Augmenter la taille du texte si nécessaire */
+    max-width: 50%; /* Ajustez la taille de l'image pour les écrans plus petits */
+  }
+
+  /* Ajoutez d'autres styles spécifiques à l'écran mobile si nécessaire */
+}
+
+
+.heaDer .logo i {
+  color: var(--blue);
+}
+
+
+
+
+/* -------------media queries ----------- */
+@media (max-width: 991px) {
+ 
+  .heaDer {
+    padding: 2rem;
+    font-size: 55%;
+  }
+
+}
+
+
+@media (max-width: 450px) {
+  .heaDer {
+    padding: 2rem;
+    font-size: 50%;
+  }
+
+}
+/* end of media queries */
+
+
+
+
+
+
+
+
+.logocontainer {
+  text-align: center;
+  background-color:white;
+  color: rgb(73, 69, 69);
+  padding: 0px;
+ 
+}
+.textlogo{
+  font-weight: bold;
+}
+.ministere{
+  font-size: 30px;
+}
+.hopital{
+  font-size: 36px;
+}
+.Docteur{
+  font-size: 26px;
+}
+.logo_hopital{
+  padding: 1px;
+  margin: 5px;
+  margin-left: 30px;
+}

@@ -1,0 +1,25 @@
+.container{
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 0 0 50px;
+}
+
+.marketing  {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+h2 {
+    font-weight: 400;
+  }
+
+ p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+  }
+
+
+  .total{
+    width: 20rem;
+  }

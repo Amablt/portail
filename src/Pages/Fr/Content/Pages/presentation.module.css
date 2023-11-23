@@ -1,0 +1,11 @@
+.section{
+    width: 100%;
+    display: inline-block;
+    background: #dcd7d7;
+    height: 100vh;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    text-decoration: underline;
+    background-image: url(../../../../Images/accueil.png);
+}
